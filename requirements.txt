@@ -120,7 +120,7 @@ pillow==8.3.1
     # via
     #   gftools
     #   pybrowserstack-screenshots
-protobuf==3.17.3
+protobuf==6.33.5
     # via gftools
 psautohint==2.3.0
     # via -r requirements.in
